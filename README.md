@@ -1,0 +1,1 @@
+# Potenciacao_Raiz
