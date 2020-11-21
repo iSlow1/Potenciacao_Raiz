@@ -6,7 +6,7 @@ int main()
 {
     setlocale(LC_ALL, "Portuguese");
     int num;
-    float r, q, e;
+    float r, e;
 
     printf("Informe um numero: \n");
     scanf("%d", &num);
